@@ -2,11 +2,15 @@
 PARAM Siddhi-AI is a high-performance computing-artificial intelligence (HPC-AI) and by far the fastest supercomputer developed in India with an Rpeak of 5.267 Pflops and 4.6 Pflops Rmax (Sustained)
 has achieved **global ranking of 62*** in the TOP 500 most powerful supercomputer systems in the world, released on 16th November 2020
 
-### how to use param siddhi ai-gpu for trainig  deep learninig  models
+##### Param siddhi ai has total 8 
+##### NVIDIA A100 40GB GPU
+
+
+## how to use param siddhi ai-gpu for trainig  deep learninig  models
 
 
 
-# installtion of cuda
+## installtion of cuda
 -```cudnn```
 
 -```half_cuda```
