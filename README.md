@@ -10,7 +10,7 @@ has achieved **global ranking of 62*** in the TOP 500 most powerful supercompute
 
 
 
-## installtion of cuda
+## installtion of cudnn,opencv,half cuda  (cuda already installed init)
 -```cudnn```
 
 -```half_cuda```
