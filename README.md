@@ -40,13 +40,14 @@ NOTE: Kindly use the versions provided to avoid any compilation issues.
   ```conda install cudnn=8.0 -c=conda-forge```
 
 
-## 7. install CUDNN_HALF=1.
+## 7. Run the cmake command inside darknet folder.
+  ```cmake .```
+
+## 8. install CUDNN_HALF=1.
  ```cmake -DCMAKE_CUDA_ARCHITECTURES=75. ```
 
 This will automatically set your CUDNN_HALF=1.
 
-## 8. Run the cmake command inside darknet folder.
-  ```cmake .```
 
 ##  9. Make sure no errors are present. Then run make command.
  ```make```
